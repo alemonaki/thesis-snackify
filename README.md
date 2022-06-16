@@ -1,0 +1,2 @@
+# thesis-snackify
+Thesis project 
